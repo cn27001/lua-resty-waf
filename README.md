@@ -35,13 +35,3 @@ lua-resty-waf 是一款开源的入侵检测系统。
 注意:默认，本机在白名单不过滤，可自行调整config.lua配置
 
 
-
-##安装
-
-    curl -fsSL http://www.smnode.com/smstatic/script/install_openresty.sh | bash
-
-##交流QQ群
-    323865245
-
-
-## 守茂网络科技 Copyright
